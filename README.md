@@ -41,6 +41,10 @@ Welcome to my profile! I'm a Software Engineer from Mexico 🇲🇽. Thanks for 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+### Companies I have worked to
+<code><img height="20" src="https://pbs.twimg.com/profile_images/1278706633024118784/bTKAm2LX.jpg"></code>
+<code><img height="20" src="https://yt3.ggpht.com/a/AATXAJwYxtvHiokGQH_SOjK3yD21e9JOty04ChmU33rtFA=s900-c-k-c0xffffffff-no-rj-mo"></code>
+<code><img height="20" src="https://img.utdstc.com/icons/rappi-android.png:225"></code>
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=willbackslash.profile)
