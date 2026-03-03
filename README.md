@@ -1,50 +1,46 @@
 # Hi I'm William (@willbackslash) 👋
 [![Linkedin Badge](https://img.shields.io/badge/-williamdlc-blue?style=flat&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/williamdlc/)](https://www.linkedin.com/in/williamdlc/)
-[![Gmail Badge](https://img.shields.io/badge/-macwilliamdlc-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:macwilliamdlc@gmail.com)](mailto:macwilliamdlc@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-macwilliamdlc-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:macwilliamdlc@gmail.com)](mailto:macwilliamdlc@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-willbackslash-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/willbackslash)](https://twitter.com/willbackslash)
 
-Welcome to my profile! I'm a Software Engineer from Mexico 🇲🇽. Thanks for visiting and I'd love to [connect](http://linkedin.com/in/williamdlc/)!
+### 🚀 Technical Profile
+Engineering Manager and Staff Software Engineer focused on building scalable products and designing robust architectures. I specialize in microservices, system design, and the integration of AI/ML solutions into production environments.
 
+* **Incode**: Lead the Data Validation squad. Developed AI-driven tools with Python and LangChain, and managed platform features using Java and ReactJS.
+* **Jüsto**: Orchestrated the transition from monolith to microservices. Engineered systems using Django, Next.js, GraphQL, and AWS.
+* **Credijusto**: Tech Lead for credit quotation software and third-party fintech integrations using Flask, Python, Django, and ReactJS.
+* **Wizeline**: Developed Node.js applications on AWS Lambda and Java-based backends leveraging S3 and DynamoDB.
+* **Rappi**: Founding Engineer responsible for payment systems, CMS infrastructure, and CI pipelines using Python, Java, Kotlin, and Node.js.
 
+---
 
+### 🏗️ Current Projects
+* **JavaFast**: Architecting a custom HTTP framework to explore low-level networking and server performance.
+* Implementing **MySQL** connectivity and exploring **Jetty** for high-performance server implementations.
 
+---
+
+### 🛠️ Tech Stack
+* **Languages**: Python, Java, JavaScript, TypeScript, Kotlin, C.
+* **Frameworks**: Django, Flask, FastAPI, ReactJS, Next.js, Node.js, LangChain, Gradle.
+* **Infrastructure**: AWS (Lambda, S3, DynamoDB, EC2), Docker, CI/CD Pipelines.
+* **Databases/API**: MySQL, PostgreSQL, MongoDB, Redis, GraphQL.
+
+---
+
+### 🎓 Education
+* **Bachelor's Degree in Applied Mathematics and Computer Science** | UNAM.
+
+---
 
 ![wilbackslash's github stats](https://github-readme-stats.vercel.app/api?username=willbackslash&show_icons=true)
 
+### Ecosystems
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
-### Languages
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-### Frameworks & libs
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-
-
-### Databases
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-
-### Tools
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-
-### Companies I have worked for
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/20384825?s=200&v=4"></code>
-<code><img height="20" src="https://yt3.ggpht.com/a/AATXAJwYxtvHiokGQH_SOjK3yD21e9JOty04ChmU33rtFA=s900-c-k-c0xffffffff-no-rj-mo"></code>
-<code><img height="20" src="https://img.utdstc.com/icons/rappi-android.png:225"></code>
-
-
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=willbackslash.profile)
- 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=willbackslash.profile)
