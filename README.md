@@ -33,7 +33,7 @@ Engineering Manager and Staff Software Engineer focused on building scalable pro
 
 ---
 
-![wilbackslash's github stats](https://github-readme-stats.vercel.app/api?username=willbackslash&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=willbackslash&theme=tokyonight" alt="mystreak"/>
 
 ### Ecosystems
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
